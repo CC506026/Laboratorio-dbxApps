@@ -1,1 +1,8 @@
 command: ["streamlit", "run", "app.py"]
+
+env:
+  - name: TARGET_WORKSPACE_HOST
+    value: "https://adb-830380622316336.16.azuredatabricks.net"
+
+  - name: TARGET_JOB_ID
+    value: "83231014069212"
