@@ -6,3 +6,6 @@ env:
 
   - name: TARGET_JOB_ID
     value: "83231014069212"
+
+  - name: TARGET_VOLUME_DIR
+    value: "/Volumes/app_poc/staging/excel_uploads"
