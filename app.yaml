@@ -8,4 +8,5 @@ env:
     value: "83231014069212"
 
   - name: TARGET_VOLUME_DIR
-    value: "/Volumes/app_poc/staging/excel_uploads"
+    value: "/Volumes/databricks_dev_mxc_dbw_001/labapps/excel_uploads"
+    
