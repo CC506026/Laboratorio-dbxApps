@@ -9,4 +9,6 @@ env:
 
   - name: TARGET_VOLUME_DIR
     value: "/Volumes/databricks_dev_mxc_dbw_001/labapps/excel_uploads"
-    
+  
+  - name: TARGET_TASK_KEY
+    value: "Procesamiento_de_exceles"
