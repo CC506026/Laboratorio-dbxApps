@@ -12,3 +12,6 @@ env:
   
   - name: TARGET_TASK_KEY
     value: "Procesamiento_de_exceles"
+
+  - name: OUTPUT_TTL_SECONDS
+    value: "120"
